@@ -9,50 +9,6 @@
     <p>
         Mehr <a href="https://timberlin.de/ueber-mich/" target="_blank" rel="noopener" itemprop="url">Über Tim Berlin</a>
     </p>
-<h2>Leistungen</h2>
-    <div itemprop="hasOfferCatalog" itemscope itemtype="https://schema.org/OfferCatalog">
-        <ul>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Innovative SEO-Ansätze für E-Commerce und Large-Scale-Websites</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">SEO Beratung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Technische SEO Beratung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">SEO Internationalisierung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Relaunch SEO</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">SEO-Feature Entwicklung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Indexierungs- und Crawlingmanagement, Interne Verlinkung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Semantische Suchmaschinenoptimierung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">E-E-A-T Qualitätskriterien (Experience, Expertise, Authoriativeness & Trustwothiness)</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Javascript SEO</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Local SEO</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Pagespeed Optimierung</span>
-            </li>
-            <li itemscope itemtype="https://schema.org/Service">
-                <span itemprop="name">Logfile Analyse</span>
-            </li>
-        </ul>
-    </div>
     <h2>Weitere Profile</h2>
     <div class="textblock">
         <p>
