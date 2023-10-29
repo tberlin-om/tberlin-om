@@ -1,7 +1,7 @@
-<div itemscope itemtype="http://schema.org/Person" itemid="https://timberlin.de/ueber-mich/#person">
+<div itemscope itemtype="https://schema.org/Person" itemid="https://timberlin.de/ueber-mich/#person">
     <h1>
         <span itemprop="name">Tim Berlin</span>, 
-        <span itemprop="hasOccupation" itemscope itemtype="http://schema.org/Occupation" itemid="https://www.wikidata.org/wiki/Q4048723">SEO Experte</span>
+        <span itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation" itemid="https://www.wikidata.org/wiki/Q4048723">SEO Experte</span>
     </h1>
     <p itemprop="description">
         Tim Berlin ist ein selbstständiger SEO Berater mit einem Schwerpunkt auf Strategie und Technik und arbeitet zudem als Head of SEO bei dem Berliner Unternehmen kfzteile24 GmbH. Er hilft national und international aufgestellten Unternehmen aller Größenordnungen, durch innovative Ansätze und maßgeschneiderte Lösungen, ihr organisches Wachstum und die digitale Sichtbarkeit zu steigern.
