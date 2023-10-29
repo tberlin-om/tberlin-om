@@ -2,6 +2,9 @@
 
 <p>Tim Berlin ist ein selbstständiger SEO Experte mit einem Schwerpunkt auf Strategie und Technik und arbeitet zudem als Head of SEO bei dem Berliner Unternehmen kfzteile24 GmbH. Er hilft national und international aufgestellten Unternehmen aller Größenordnungen, durch innovative Ansätze und maßgeschneiderte Lösungen, ihr organisches Wachstum und die digitale Sichtbarkeit zu steigern.</p>
 
+<h2>Weitere Profile</h2>
+<div class="textblock"><p><a href="https://de.linkedin.com/in/timberlin" target="_blank" rel="noopener" style="">LinkedIn</a> | <a href="https://www.xing.com/profile/Tim_Berlin" target="_blank" rel="noopener" style="">XING</a> | <a href="https://github.com/tberlin-om" target="_blank" rel="noopener" style="">GitHub</a> |&nbsp;<a href="https://www.crunchbase.com/person/tim-berlin" target="_blank" rel="noopener" style="">Crunchbase</a> | <a href="https://twitter.com/tb_berlin" target="_blank" rel="noopener" style="">Twitter</a> | <a href="https://www.polywork.com/tim_berlin" target="_blank" rel="noopener" style="">Polywork</a> | <a href="https://about.me/timberlin" target="_blank" rel="noopener" style="">AboutMe</a> | <a href="https://www.google.com/search?kgmid=/g/11kpr0db52" target="_blank" rel="noopener" style="">Google Knowledge Graph</a></p>
+</div>
 
 ***
 
