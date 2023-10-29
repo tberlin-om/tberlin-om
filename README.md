@@ -8,7 +8,7 @@ Mehr <a href="https://timberlin.de/ueber-mich/" target="_blank" rel="noopener" s
 <div class="textblock"><p><a href="https://de.linkedin.com/in/timberlin" target="_blank" rel="noopener" style="">LinkedIn</a> | <a href="https://www.xing.com/profile/Tim_Berlin" target="_blank" rel="noopener" style="">XING</a> | <a href="https://www.crunchbase.com/person/tim-berlin" target="_blank" rel="noopener" style="">Crunchbase</a> | <a href="https://twitter.com/tb_berlin" target="_blank" rel="noopener" style="">Twitter</a> | <a href="https://www.polywork.com/tim_berlin" target="_blank" rel="noopener" style="">Polywork</a> | <a href="https://about.me/timberlin" target="_blank" rel="noopener" style="">AboutMe</a> | <a href="https://www.google.com/search?kgmid=/g/11kpr0db52" target="_blank" rel="noopener" style="">Google Knowledge Graph</a></p>
 </div>
 
-***
+<h2>Sprachen & Tools</h2>
 
 ![sprachen:](https://img.shields.io/badge/sprachen%3A-111111?style=flat-square&labelColor=111111&color=111111)
 ![Python](https://img.shields.io/badge/-Python-2C3E50?style=flat-square&logo=python&logoColor=7f8c8d&labelColor=34495e&color=34495e)
@@ -30,6 +30,10 @@ Mehr <a href="https://timberlin.de/ueber-mich/" target="_blank" rel="noopener" s
 
 <details open="">
   <summary><b>GitHub Statistics</b></summary>
+  
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tberlin-om&layout=compact)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tberlin-om&layout=compact)
+  
 </details>
+
