@@ -13,7 +13,5 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-2C3E50?style=flat-square&logo=css3&logoColor=7f8c8d&labelColor=34495e&color=34495e)
 ![PHP](https://img.shields.io/badge/-PHP-2C3E50?style=flat-square&logo=php&logoColor=7f8c8d&labelColor=34495e&color=34495e)
 
-{}
-
 ![tools:](https://img.shields.io/badge/tools%3A-111111?style=flat-square&labelColor=111111&color=111111)
 
