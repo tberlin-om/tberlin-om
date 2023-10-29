@@ -25,15 +25,3 @@ Mehr <a href="https://timberlin.de/ueber-mich/" target="_blank" rel="noopener" s
 ![Screaming Frog](https://img.shields.io/badge/ScreamingFrog-2C3E50?style=flat-square&color=2C3E50)
 ![Sistrix](https://img.shields.io/badge/Sistrix-2C3E50?style=flat-square&color=2C3E50)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-2C3E50?style=flat-square&color=2C3E50)
-
-***
-
-<details open="">
-  <summary><b>GitHub Statistics</b></summary>
-  
-  <br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tberlin-om&layout=compact)
-  
-</details>
-
