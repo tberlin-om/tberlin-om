@@ -34,7 +34,7 @@
 ![tools:](https://img.shields.io/badge/tools%3A-111111?style=flat-square&labelColor=111111&color=111111)
 ![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=flat-square&logo=github&logoColor=7f8c8d&color=2C3E50)
 ![VSCode](https://img.shields.io/badge/VSCode-2C3E50?style=flat-square&logo=visual-studio-code&logoColor=7f8c8d&color=2C3E50)
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-2C3E50?style=flat-square&logo=google-search-console&logoColor=7f8c8d&color=2C3E50)
+![Google Search Console](https://img.shields.io/badge/GoogleSearchConsole-2C3E50?style=flat-square&logo=google-search-console&logoColor=7f8c8d&color=2C3E50)
 ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-2C3E50?style=flat-square&logo=google-analytics&logoColor=7f8c8d&color=2C3E50)
 ![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-2C3E50?style=flat-square&logo=google-tag-manager&logoColor=7f8c8d&color=2C3E50)
 ![Screaming Frog](https://img.shields.io/badge/ScreamingFrog-2C3E50?style=flat-square&color=2C3E50)
