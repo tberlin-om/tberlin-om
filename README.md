@@ -18,7 +18,7 @@
             <a href="https://twitter.com/tb_berlin" target="_blank" rel="noopener" itemprop="sameAs">Twitter</a> | 
             <a href="https://www.polywork.com/tim_berlin" target="_blank" rel="noopener" itemprop="sameAs">Polywork</a> | 
             <a href="https://about.me/timberlin" target="_blank" rel="noopener" itemprop="sameAs">AboutMe</a> | 
-            <a href="https://www.google.com/search?kgmid=/g/11kpr0db52" target="_blank" rel="noopener" itemprop="sameAs">Google Knowledge Graph</a>
+            <a href="https://www.google.com/search?kgmid=/g/11j_6chgcp" target="_blank" rel="noopener" itemprop="sameAs">Google Knowledge Graph</a>
         </p>
     </div>
 </div>
