@@ -4,7 +4,7 @@
         <span itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">SEO Experte</span>
     </h1>
     <p itemprop="description">
-        Tim Berlin ist ein selbstständiger SEO Berater mit technischen und strategischen Schwerpunkten. Zudem arbeitet er als Head of SEO bei dem Berliner Unternehmen kfzteile24 GmbH. Er hilft national und international aufgestellten Unternehmen aller Größenordnungen, durch innovative Ansätze und maßgeschneiderte Lösungen, ihr organisches Wachstum und die digitale Sichtbarkeit zu steigern.
+        Tim Berlin ist ein selbstständiger SEO Berater mit technischen und strategischen Schwerpunkten. Er hilft national und international aufgestellten Unternehmen aller Größenordnungen, durch innovative Ansätze und maßgeschneiderte Lösungen, ihr organisches Wachstum und die digitale Sichtbarkeit zu steigern.
     </p>
     <p>
         Mehr <a href="https://timberlin.de/ueber-mich/" target="_blank" rel="noopener" itemprop="url">Über Tim Berlin</a>
