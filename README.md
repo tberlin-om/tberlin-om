@@ -1,7 +1,7 @@
 <div itemscope itemtype="https://schema.org/Person">
     <h1>
         <span itemprop="name">Tim Berlin</span>, 
-        <span itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">SEO Experte</span>
+        <span itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">SEO Berater</span>
     </h1>
     <p itemprop="description">
         Tim Berlin ist ein selbstständiger SEO Berater mit technischen und strategischen Schwerpunkten. Er unterstützt national und international aufgestellte Unternehmen bei der Verbesserung ihrer organischen Sichtbarkeit.
